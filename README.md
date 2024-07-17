@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Charan-AWS
+- 👋 Hi, I’m @Charan
 - 👀 I’m interested in ...knowing new things
 - 🌱 I’m currently learning ...Amazon Web Services
 - 💞️ I’m looking to collaborate on ...any Clients
